@@ -345,7 +345,7 @@ MIT © 2024
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by dieuts**
 
 **Last Updated:** January 2024  
 **Version:** 1.0.0
