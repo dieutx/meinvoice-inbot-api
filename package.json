@@ -1,0 +1,33 @@
+{
+  "name": "misa-meinvoice-gas",
+  "version": "1.0.0",
+  "description": "MISA meInvoice Google Apps Script Integration - Tích hợp API MISA meInvoice vào Google Sheets",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clasp-push": "clasp push",
+    "clasp-pull": "clasp pull",
+    "clasp-deploy": "clasp deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/misa-meinvoice-gas.git"
+  },
+  "keywords": [
+    "MISA",
+    "meInvoice",
+    "Google Apps Script",
+    "Google Sheets",
+    "Invoice",
+    "API Integration",
+    "Vietnam"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@google/clasp": "^2.4.2"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
